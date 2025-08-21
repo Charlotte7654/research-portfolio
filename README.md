@@ -1,4 +1,4 @@
-# Zostera capensis Genomics – Lab Projects Showcase
+# Zostera capensis Genomics – Research Showcase
 
 This repository highlights my contributions to the genomics research of *Zostera capensis* as part of the Combrink et al., 2024 study. The work involved bioinformatic analyses, including SNP calling, population genomics, and data processing pipelines.  
 
